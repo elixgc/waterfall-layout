@@ -1,7 +1,5 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs",
     "pages/waterfall-layout/index"
   ],
   "window":{
